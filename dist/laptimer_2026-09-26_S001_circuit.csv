@@ -1,0 +1,49 @@
+timestamp,lap,elapsed_s,distance_ft,avg_speed_mph,driver,config,session,discipline,cones_session,amp_in,amp_out,flags,status,notes
+2026-09-26 10:24:29,1,16.0014,,,The Dom,Rain*,S001,circuit,0,8611,2799,0x08,ok,unconfirmed
+2026-09-26 10:25:20,2,51.0571,,,The Dom,Rain*,S001,circuit,0,2799,16617,0x08,ok,unconfirmed
+2026-09-26 10:29:22,3,95.5059,,,The Dom,Rain*,S001,circuit,0,9358,3057,0x00,ok,
+2026-09-26 10:29:59,4,37.6046,,,The Dom,Rain*,S001,circuit,0,3057,2620,0x00,ok,
+2026-09-26 10:30:12,5,12.9193,,,The Dom,Rain*,S001,circuit,0,2620,1735,0x08,ok,unconfirmed
+2026-09-26 10:30:13,6,1.0012,,,The Dom,Rain*,S001,circuit,0,1735,1927,0x08,ok,unconfirmed
+2026-09-26 10:30:14,7,1.0011,,,The Dom,Rain*,S001,circuit,0,1927,4914,0x08,ok,unconfirmed
+2026-09-26 10:30:18,8,3.5215,,,The Dom,Rain*,S001,circuit,0,4914,1913,0x08,ok,unconfirmed
+2026-09-26 10:30:39,9,21.5053,,,The Dom,Rain*,S001,circuit,0,1913,2244,0x08,ok,unconfirmed
+2026-09-26 10:32:12,11,54.1417,,,The Dom,Rain*,S001,circuit,0,12589,774,0x08,ok,unconfirmed
+2026-09-26 10:35:24,12,23.9681,,,The Dom,Rain*,S001,circuit,0,715,721,0x08,ok,unconfirmed
+2026-09-26 10:36:01,13,37.3678,,,Verstappen,Rain*,S001,circuit,0,721,946,0x08,ok,unconfirmed
+2026-09-26 10:36:33,14,32.4304,,,Verstappen,Rain*,S001,circuit,0,946,863,0x08,ok,unconfirmed
+2026-09-26 10:36:46,15,12.3981,,,Verstappen,Rain*,S001,circuit,0,863,720,0x08,ok,unconfirmed
+2026-09-26 10:36:51,16,5.5043,,,Verstappen,Rain*,S001,circuit,0,720,870,0x08,ok,unconfirmed
+2026-09-26 10:38:25,17,93.4818,,,Verstappen,Rain*,S001,circuit,0,870,2870,0x08,ok,unconfirmed
+2026-09-26 10:38:31,18,6.4818,,,Verstappen,Rain*,S001,circuit,0,2870,822,0x00,ok,
+2026-09-26 10:38:33,19,1.6428,,,Verstappen,Rain*,S001,circuit,0,822,939,0x08,ok,unconfirmed
+2026-09-26 10:38:38,20,4.8980,,,Verstappen,Rain*,S001,circuit,0,939,893,0x08,ok,unconfirmed
+2026-09-26 10:38:49,21,11.5588,,,Verstappen,Rain*,S001,circuit,0,893,779,0x08,ok,unconfirmed
+2026-09-26 10:49:12,18,4.0007,,,Verstappen,Rain*,S001,circuit,0,17254,20888,0x00,ok,
+2026-09-26 10:49:43,19,30.6248,,,Verstappen,Rain*,S001,circuit,1,20888,1039,0x08,ok,unconfirmed
+2026-09-26 10:50:26,20,42.8331,,,Verstappen,Rain*,S001,circuit,1,1039,1731,0x08,ok,unconfirmed
+2026-09-26 10:51:16,21,50.2035,,,Verstappen,Rain*,S001,circuit,1,1731,1665,0x08,ok,unconfirmed
+2026-09-26 10:51:51,22,35.1126,,,Verstappen,Rain*,S001,circuit,1,1665,1919,0x08,ok,unconfirmed
+2026-09-26 10:52:26,23,34.5565,,,Verstappen,Rain*,S001,circuit,1,1919,1659,0x08,ok,unconfirmed
+2026-09-26 10:53:01,24,35.2743,,,Verstappen,Rain*,S001,circuit,1,1659,1030,0x08,ok,unconfirmed
+2026-09-26 10:53:36,25,35.2370,,,Verstappen,Rain*,S001,circuit,1,1030,1518,0x08,ok,unconfirmed
+2026-09-26 10:53:48,26,11.7943,,,Verstappen,Rain*,S001,circuit,1,1518,1208,0x08,ok,unconfirmed
+2026-09-26 10:53:49,27,0.9994,,,Verstappen,Rain*,S001,circuit,1,1208,1351,0x08,ok,unconfirmed
+2026-09-26 10:58:12,28,1.0026,,,Verstappen,Rain*,S001,circuit,1,1322,1905,0x08,ok,unconfirmed
+2026-09-26 11:03:34,29,44.6737,,,Verstappen,Rain*,S001,circuit,1,1289,1363,0x08,ok,unconfirmed
+2026-09-26 11:04:07,30,32.8986,,,Verstappen,Rain*,S001,circuit,2,1363,1531,0x08,ok,unconfirmed
+2026-09-26 11:04:42,31,35.2170,,,Verstappen,Rain*,S001,circuit,2,1531,1835,0x08,ok,unconfirmed
+2026-09-26 11:05:15,32,33.0421,,,Verstappen,Rain*,S001,circuit,2,1835,2016,0x08,ok,unconfirmed
+2026-09-26 11:05:49,33,33.6003,,,Verstappen,Rain*,S001,circuit,2,2016,1280,0x08,ok,unconfirmed
+2026-09-26 11:06:24,34,35.0858,,,Verstappen,Rain*,S001,circuit,2,1280,1344,0x08,ok,unconfirmed
+2026-09-26 11:12:54,37,23.5374,,,Verstappen,Rain*,S001,circuit,2,333,467,0x00,ok,
+2026-09-26 11:13:17,38,22.2373,,,Verstappen,Rain*,S001,circuit,2,467,398,0x08,ok,unconfirmed
+2026-09-26 11:14:09,39,52.1789,,,Verstappen,Rain*,S001,circuit,2,398,416,0x08,ok,unconfirmed
+2026-09-26 11:14:45,40,35.8970,,,Verstappen,Rain*,S001,circuit,2,416,571,0x00,ok,
+2026-09-26 11:15:18,41,33.4185,,,Verstappen,Rain*,S001,circuit,2,571,597,0x00,ok,
+2026-09-26 11:15:53,42,34.5724,,,Verstappen,Rain*,S001,circuit,2,597,699,0x00,ok,
+2026-09-26 11:16:26,43,33.5169,,,Verstappen,Rain*,S001,circuit,3,699,535,0x00,ok,
+2026-09-26 11:17:03,44,36.9011,,,Verstappen,Rain*,S001,circuit,3,535,624,0x00,ok,
+2026-09-26 11:17:36,45,32.8372,,,Verstappen,Rain*,S001,circuit,3,624,435,0x00,ok,
+2026-09-26 11:18:09,46,33.1432,,,Verstappen,Rain*,S001,circuit,3,435,636,0x00,ok,
+2026-09-26 11:18:38,47,28.6420,,,Verstappen,Rain*,S001,circuit,3,636,449,0x08,ok,unconfirmed
